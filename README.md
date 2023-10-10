@@ -4,7 +4,7 @@ Hello! I'm Lorenzo, a Computer Science student at UFSM (Federal University of Sa
 
 ## Contact
 - **Email**: [lorenzotaschetto04@gmail.com](mailto:lorenzotaschetto04@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/lorenzo-taschetto-6087b4283/)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/lorenzo-sacchet-taschetto-6087b4283/)
 
 ## Tools & Technologies
 

@@ -2,11 +2,11 @@
 
 Hello! I'm Lorenzo, a Computer Science student at UFSM (Federal University of Santa Maria).
 
-## Contact
+## Contact 📞
 - **Email**: [lorenzotaschetto04@gmail.com](mailto:lorenzotaschetto04@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/lorenzo-sacchet-taschetto-6087b4283/)
 
-## Tools & Technologies
+## Tools & Technologies 🛠️
 
 ### Familiar With:
 |  |  |  |  |  |  |  |  |
